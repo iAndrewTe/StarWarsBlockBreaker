@@ -2,17 +2,17 @@
 
 ## Scenes in the game
 
-![Alt tag](/Scene View/Start.png?raw=true "Start Screen")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Start.png)
 
 #### Level 1 - One hit Storm Troopers and Three hit Darth Vader
-![Alt tag](/Scene View/Level 01.png?raw=true "Level 01")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Level%2001.png)
 
 #### Level 2 - Two hit Storm Troopers and Three hit Darth Vader
-![Alt tag](/Scene View/Level 02.png?raw=true "Level 02")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Level%2002.png)
 
 ### Level 3 - Two hit Strom Troopers, Three hit Darth Vader with Two unbreakable red Storm Troopers are guard
-![Alt tag](/Scene View/Level 03.png?raw=true "Level 03")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Level%2003.png)
 
-![Alt tag](/Scene View/Lose.png?raw=true "Lose Screen")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Lose.png)
 
-![Alt tag](/Scene View/Win.png?raw=true "Win Screen")
+![Alt tag](https://github.com/iAndrewTe/StarWarsBlockBreaker/blob/master/Scene%20View/Win.png)
